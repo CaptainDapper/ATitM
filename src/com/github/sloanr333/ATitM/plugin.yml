@@ -1,0 +1,5 @@
+## YAML Template.
+---
+name: aTaleInTheMinecraft
+main: com.github.sloanr333.ATitM.ATitM
+version: 0.0.1
